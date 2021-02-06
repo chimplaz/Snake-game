@@ -1,6 +1,6 @@
-# Simple Snake Game in Python 3 
+# Simple Snake Game in Python 
 # By Chimbook 
-# Part:1 Getting started 
+# Getting started 
 
 import turtle
 import time
